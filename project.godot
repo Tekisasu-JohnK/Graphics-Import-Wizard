@@ -14,12 +14,12 @@ _global_script_class_icons={
 
 [application]
 
-config/name="AsepriteWizard"
+config/name="TekisasuImporter"
 config/icon="res://icon.png"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/AsepriteWizard/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/TekisasuImporter/plugin.cfg" )
 
 [rendering]
 
